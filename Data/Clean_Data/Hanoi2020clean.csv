@@ -1,0 +1,744 @@
+Site,Parameter,Date,Year,Month,Day,Hour,NowCastConc,AQI,AQICat,RawConc,ConcUnit,Duration,QCName
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:01:00,2020,12,1,1,32,93,Moderate,39,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:02:00,2020,12,1,2,34,97,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:03:00,2020,12,1,3,29,86,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:04:00,2020,12,1,4,39,109,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:05:00,2020,12,1,5,42,116,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:06:00,2020,12,1,6,42,117,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:07:00,2020,12,1,7,41,115,Unhealthy for Sensitive Groups,40,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:08:00,2020,12,1,8,38,106,Unhealthy for Sensitive Groups,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:09:00,2020,12,1,9,35,100,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:10:00,2020,12,1,10,27,81,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:11:00,2020,12,1,11,21,69,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:12:00,2020,12,1,12,21,70,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:13:00,2020,12,1,13,17,61,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:14:00,2020,12,1,14,15,58,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:15:00,2020,12,1,15,14,54,Moderate,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:16:00,2020,12,1,16,17,62,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:17:00,2020,12,1,17,19,66,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:18:00,2020,12,1,18,20,67,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:19:00,2020,12,1,19,21,70,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:20:00,2020,12,1,20,24,75,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:21:00,2020,12,1,21,22,71,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:22:00,2020,12,1,22,24,76,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,01DEC20:23:00,2020,12,1,23,24,76,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:00:00,2020,12,2,0,24,77,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:01:00,2020,12,2,1,29,87,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:02:00,2020,12,2,2,31,91,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:03:00,2020,12,2,3,27,82,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:04:00,2020,12,2,4,27,82,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:05:00,2020,12,2,5,30,89,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:06:00,2020,12,2,6,25,77,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:07:00,2020,12,2,7,29,86,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:08:00,2020,12,2,8,31,90,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:09:00,2020,12,2,9,32,92,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:10:00,2020,12,2,10,25,78,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:11:00,2020,12,2,11,22,72,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:12:00,2020,12,2,12,17,61,Moderate,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:13:00,2020,12,2,13,13,53,Moderate,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:14:00,2020,12,2,14,12,50,Good,11,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:15:00,2020,12,2,15,13,54,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:16:00,2020,12,2,16,17,61,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:17:00,2020,12,2,17,16,60,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:18:00,2020,12,2,18,17,62,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:19:00,2020,12,2,19,18,63,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:20:00,2020,12,2,20,20,67,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:21:00,2020,12,2,21,26,80,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:22:00,2020,12,2,22,23,75,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,02DEC20:23:00,2020,12,2,23,21,69,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:00:00,2020,12,3,0,21,69,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:01:00,2020,12,3,1,17,62,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:02:00,2020,12,3,2,22,71,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:03:00,2020,12,3,3,15,58,Moderate,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:04:00,2020,12,3,4,18,63,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:05:00,2020,12,3,5,25,78,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:06:00,2020,12,3,6,24,77,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:07:00,2020,12,3,7,26,80,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:08:00,2020,12,3,8,28,84,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:09:00,2020,12,3,9,28,84,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:10:00,2020,12,3,10,28,84,Moderate,25,UG/M3,1 Hr,Invalid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:11:00,2020,12,3,11,31,91,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:12:00,2020,12,3,12,28,84,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:13:00,2020,12,3,13,31,91,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:14:00,2020,12,3,14,34,96,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:15:00,2020,12,3,15,29,85,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:16:00,2020,12,3,16,27,82,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:17:00,2020,12,3,17,24,76,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:18:00,2020,12,3,18,22,72,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:19:00,2020,12,3,19,25,78,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:20:00,2020,12,3,20,26,79,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:21:00,2020,12,3,21,21,70,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:22:00,2020,12,3,22,22,71,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,03DEC20:23:00,2020,12,3,23,23,75,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:00:00,2020,12,4,0,25,78,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:01:00,2020,12,4,1,22,71,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:02:00,2020,12,4,2,21,70,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:03:00,2020,12,4,3,21,69,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:04:00,2020,12,4,4,23,74,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:05:00,2020,12,4,5,26,79,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:06:00,2020,12,4,6,25,78,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:07:00,2020,12,4,7,33,95,Moderate,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:08:00,2020,12,4,8,34,96,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:09:00,2020,12,4,9,32,92,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:10:00,2020,12,4,10,29,86,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:11:00,2020,12,4,11,31,91,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:12:00,2020,12,4,12,26,81,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:13:00,2020,12,4,13,27,82,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:14:00,2020,12,4,14,26,80,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:15:00,2020,12,4,15,26,79,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:16:00,2020,12,4,16,28,84,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:17:00,2020,12,4,17,35,99,Moderate,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:18:00,2020,12,4,18,38,106,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:19:00,2020,12,4,19,43,119,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:20:00,2020,12,4,20,40,111,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:21:00,2020,12,4,21,34,96,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:22:00,2020,12,4,22,31,91,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,04DEC20:23:00,2020,12,4,23,28,85,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:00:00,2020,12,5,0,31,91,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:01:00,2020,12,5,1,32,94,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:02:00,2020,12,5,2,37,105,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:03:00,2020,12,5,3,40,112,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:04:00,2020,12,5,4,41,115,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:05:00,2020,12,5,5,46,126,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:06:00,2020,12,5,6,49,134,Unhealthy for Sensitive Groups,52,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:07:00,2020,12,5,7,52,143,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:08:00,2020,12,5,8,62,154,Unhealthy,72,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:09:00,2020,12,5,9,63,155,Unhealthy,63,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:10:00,2020,12,5,10,52,141,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:11:00,2020,12,5,11,42,117,Unhealthy for Sensitive Groups,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:12:00,2020,12,5,12,35,100,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:13:00,2020,12,5,13,30,89,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:14:00,2020,12,5,14,30,89,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:15:00,2020,12,5,15,31,91,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:16:00,2020,12,5,16,34,96,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:17:00,2020,12,5,17,36,101,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:18:00,2020,12,5,18,39,110,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:19:00,2020,12,5,19,43,118,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:20:00,2020,12,5,20,45,125,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:21:00,2020,12,5,21,36,103,Unhealthy for Sensitive Groups,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:22:00,2020,12,5,22,26,79,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,05DEC20:23:00,2020,12,5,23,22,71,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:00:00,2020,12,6,0,19,66,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:01:00,2020,12,6,1,22,72,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:02:00,2020,12,6,2,25,77,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:03:00,2020,12,6,3,28,85,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:04:00,2020,12,6,4,26,80,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:05:00,2020,12,6,5,28,84,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:06:00,2020,12,6,6,29,87,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:07:00,2020,12,6,7,32,93,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:08:00,2020,12,6,8,30,88,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:09:00,2020,12,6,9,30,88,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:10:00,2020,12,6,10,25,78,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:11:00,2020,12,6,11,21,71,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:12:00,2020,12,6,12,19,65,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:13:00,2020,12,6,13,21,70,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:14:00,2020,12,6,14,19,65,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:15:00,2020,12,6,15,18,63,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:16:00,2020,12,6,16,21,71,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:17:00,2020,12,6,17,23,74,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:18:00,2020,12,6,18,20,68,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:19:00,2020,12,6,19,24,76,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:20:00,2020,12,6,20,32,92,Moderate,39,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:21:00,2020,12,6,21,34,96,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:22:00,2020,12,6,22,30,89,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,06DEC20:23:00,2020,12,6,23,37,104,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:00:00,2020,12,7,0,39,109,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:01:00,2020,12,7,1,37,106,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:02:00,2020,12,7,2,35,100,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:03:00,2020,12,7,3,26,79,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:04:00,2020,12,7,4,29,86,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:05:00,2020,12,7,5,26,80,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:06:00,2020,12,7,6,29,86,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:07:00,2020,12,7,7,28,85,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:08:00,2020,12,7,8,31,90,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:09:00,2020,12,7,9,32,92,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:10:00,2020,12,7,10,33,96,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:11:00,2020,12,7,11,37,104,Unhealthy for Sensitive Groups,40,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:12:00,2020,12,7,12,33,96,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:13:00,2020,12,7,13,34,96,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:14:00,2020,12,7,14,27,82,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:15:00,2020,12,7,15,20,68,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:16:00,2020,12,7,16,22,72,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:17:00,2020,12,7,17,24,76,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:18:00,2020,12,7,18,22,72,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:19:00,2020,12,7,19,22,72,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:20:00,2020,12,7,20,26,80,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:21:00,2020,12,7,21,28,83,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:22:00,2020,12,7,22,23,73,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,07DEC20:23:00,2020,12,7,23,23,74,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:00:00,2020,12,8,0,24,77,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:01:00,2020,12,8,1,26,81,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:02:00,2020,12,8,2,29,86,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:03:00,2020,12,8,3,26,79,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:04:00,2020,12,8,4,29,87,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:05:00,2020,12,8,5,46,128,Unhealthy for Sensitive Groups,63,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:06:00,2020,12,8,6,50,137,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:07:00,2020,12,8,7,53,143,Unhealthy for Sensitive Groups,55,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:08:00,2020,12,8,8,48,132,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:09:00,2020,12,8,9,40,112,Unhealthy for Sensitive Groups,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:10:00,2020,12,8,10,36,101,Unhealthy for Sensitive Groups,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:11:00,2020,12,8,11,31,90,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:12:00,2020,12,8,12,27,83,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:13:00,2020,12,8,13,22,72,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:14:00,2020,12,8,14,18,63,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:15:00,2020,12,8,15,16,59,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:16:00,2020,12,8,16,17,60,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:17:00,2020,12,8,17,20,67,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:18:00,2020,12,8,18,19,65,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:19:00,2020,12,8,19,25,78,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:20:00,2020,12,8,20,25,79,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:21:00,2020,12,8,21,26,81,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:22:00,2020,12,8,22,34,96,Moderate,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,08DEC20:23:00,2020,12,8,23,31,91,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:00:00,2020,12,9,0,27,81,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:01:00,2020,12,9,1,24,77,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:02:00,2020,12,9,2,23,74,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:03:00,2020,12,9,3,23,73,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:04:00,2020,12,9,4,22,71,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:05:00,2020,12,9,5,21,70,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:06:00,2020,12,9,6,24,76,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:07:00,2020,12,9,7,27,83,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:08:00,2020,12,9,8,31,91,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:09:00,2020,12,9,9,34,96,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:10:00,2020,12,9,10,32,92,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:11:00,2020,12,9,11,27,83,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:12:00,2020,12,9,12,31,91,Moderate,37,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:13:00,2020,12,9,13,34,98,Moderate,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:14:00,2020,12,9,14,33,95,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:15:00,2020,12,9,15,33,96,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:16:00,2020,12,9,16,30,89,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:17:00,2020,12,9,17,28,85,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:18:00,2020,12,9,18,28,85,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:19:00,2020,12,9,19,32,92,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:20:00,2020,12,9,20,38,107,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:21:00,2020,12,9,21,33,95,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:22:00,2020,12,9,22,35,99,Moderate,37,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,09DEC20:23:00,2020,12,9,23,34,96,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:00:00,2020,12,10,0,27,83,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:01:00,2020,12,10,1,28,84,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:02:00,2020,12,10,2,26,81,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:03:00,2020,12,10,3,24,75,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:04:00,2020,12,10,4,18,64,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:05:00,2020,12,10,5,18,63,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:06:00,2020,12,10,6,20,68,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:07:00,2020,12,10,7,25,77,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:08:00,2020,12,10,8,32,92,Moderate,39,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:09:00,2020,12,10,9,48,132,Unhealthy for Sensitive Groups,64,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:10:00,2020,12,10,10,46,128,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:11:00,2020,12,10,11,38,108,Unhealthy for Sensitive Groups,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:12:00,2020,12,10,12,38,107,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:13:00,2020,12,10,13,37,105,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:14:00,2020,12,10,14,39,110,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:15:00,2020,12,10,15,39,108,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:16:00,2020,12,10,16,34,96,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:17:00,2020,12,10,17,38,108,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:18:00,2020,12,10,18,47,130,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:19:00,2020,12,10,19,62,154,Unhealthy,77,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:20:00,2020,12,10,20,65,156,Unhealthy,67,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:21:00,2020,12,10,21,72,159,Unhealthy,79,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:22:00,2020,12,10,22,68,158,Unhealthy,65,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,10DEC20:23:00,2020,12,10,23,58,152,Unhealthy,48,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:00:00,2020,12,11,0,38,106,Unhealthy for Sensitive Groups,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:01:00,2020,12,11,1,28,84,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:02:00,2020,12,11,2,21,70,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:03:00,2020,12,11,3,25,77,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:04:00,2020,12,11,4,31,91,Moderate,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:05:00,2020,12,11,5,33,95,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:06:00,2020,12,11,6,38,107,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:07:00,2020,12,11,7,35,98,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:08:00,2020,12,11,8,39,109,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:09:00,2020,12,11,9,48,133,Unhealthy for Sensitive Groups,58,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:10:00,2020,12,11,10,47,130,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:11:00,2020,12,11,11,45,123,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:12:00,2020,12,11,12,42,116,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:13:00,2020,12,11,13,45,124,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:14:00,2020,12,11,14,47,130,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:15:00,2020,12,11,15,49,135,Unhealthy for Sensitive Groups,52,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:16:00,2020,12,11,16,57,152,Unhealthy,65,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:17:00,2020,12,11,17,54,147,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:18:00,2020,12,11,18,55,149,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:19:00,2020,12,11,19,56,151,Unhealthy,57,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:20:00,2020,12,11,20,51,138,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:21:00,2020,12,11,21,52,142,Unhealthy for Sensitive Groups,55,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:22:00,2020,12,11,22,51,140,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,11DEC20:23:00,2020,12,11,23,49,135,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:00:00,2020,12,12,0,47,130,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:01:00,2020,12,12,1,40,111,Unhealthy for Sensitive Groups,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:02:00,2020,12,12,2,33,95,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:03:00,2020,12,12,3,27,81,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:04:00,2020,12,12,4,20,67,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:05:00,2020,12,12,5,17,61,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:06:00,2020,12,12,6,15,58,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:07:00,2020,12,12,7,16,59,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:08:00,2020,12,12,8,21,70,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:09:00,2020,12,12,9,32,92,Moderate,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:10:00,2020,12,12,10,42,117,Unhealthy for Sensitive Groups,52,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:11:00,2020,12,12,11,44,122,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:12:00,2020,12,12,12,48,133,Unhealthy for Sensitive Groups,53,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:13:00,2020,12,12,13,40,111,Unhealthy for Sensitive Groups,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:14:00,2020,12,12,14,41,114,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:15:00,2020,12,12,15,50,136,Unhealthy for Sensitive Groups,59,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:16:00,2020,12,12,16,41,114,Unhealthy for Sensitive Groups,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:17:00,2020,12,12,17,33,96,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:18:00,2020,12,12,18,31,90,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:19:00,2020,12,12,19,25,79,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:20:00,2020,12,12,20,25,78,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:21:00,2020,12,12,21,26,80,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:22:00,2020,12,12,22,27,81,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,12DEC20:23:00,2020,12,12,23,31,90,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:00:00,2020,12,13,0,43,120,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:01:00,2020,12,13,1,49,133,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:02:00,2020,12,13,2,46,128,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:03:00,2020,12,13,3,37,104,Unhealthy for Sensitive Groups,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:04:00,2020,12,13,4,32,93,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:05:00,2020,12,13,5,27,83,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:06:00,2020,12,13,6,29,87,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:07:00,2020,12,13,7,42,116,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:08:00,2020,12,13,8,49,134,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:09:00,2020,12,13,9,53,144,Unhealthy for Sensitive Groups,57,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:10:00,2020,12,13,10,53,145,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:11:00,2020,12,13,11,53,143,Unhealthy for Sensitive Groups,52,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:12:00,2020,12,13,12,51,139,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:13:00,2020,12,13,13,52,143,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:14:00,2020,12,13,14,55,148,Unhealthy for Sensitive Groups,57,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:15:00,2020,12,13,15,52,141,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:16:00,2020,12,13,16,55,150,Unhealthy for Sensitive Groups,59,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:17:00,2020,12,13,17,58,152,Unhealthy,61,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:18:00,2020,12,13,18,58,152,Unhealthy,63,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:19:00,2020,12,13,19,53,143,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:20:00,2020,12,13,20,39,110,Unhealthy for Sensitive Groups,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:21:00,2020,12,13,21,28,85,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:22:00,2020,12,13,22,25,78,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,13DEC20:23:00,2020,12,13,23,21,70,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:00:00,2020,12,14,0,15,56,Moderate,8,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:01:00,2020,12,14,1,18,63,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:02:00,2020,12,14,2,12,51,Moderate,7,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:03:00,2020,12,14,3,11,44,Good,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:04:00,2020,12,14,4,15,57,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:05:00,2020,12,14,5,16,59,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:06:00,2020,12,14,6,16,59,Moderate,25,UG/M3,1 Hr,Invalid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:07:00,2020,12,14,7,16,59,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:08:00,2020,12,14,8,19,65,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:09:00,2020,12,14,9,32,92,Moderate,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:10:00,2020,12,14,10,31,91,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:11:00,2020,12,14,11,35,99,Moderate,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:12:00,2020,12,14,12,33,95,Moderate,31,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:13:00,2020,12,14,13,29,87,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:14:00,2020,12,14,14,27,83,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:15:00,2020,12,14,15,26,79,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:16:00,2020,12,14,16,24,76,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:17:00,2020,12,14,17,17,61,Moderate,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:18:00,2020,12,14,18,17,62,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:19:00,2020,12,14,19,16,59,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:20:00,2020,12,14,20,17,62,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:21:00,2020,12,14,21,15,56,Moderate,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:22:00,2020,12,14,22,18,63,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,14DEC20:23:00,2020,12,14,23,15,58,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:00:00,2020,12,15,0,19,65,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:01:00,2020,12,15,1,19,65,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:02:00,2020,12,15,2,21,71,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:03:00,2020,12,15,3,21,70,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:04:00,2020,12,15,4,29,86,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:05:00,2020,12,15,5,35,99,Moderate,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:06:00,2020,12,15,6,28,85,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:07:00,2020,12,15,7,30,89,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:08:00,2020,12,15,8,38,106,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:09:00,2020,12,15,9,50,136,Unhealthy for Sensitive Groups,62,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:10:00,2020,12,15,10,59,153,Unhealthy,68,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:11:00,2020,12,15,11,65,156,Unhealthy,72,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:12:00,2020,12,15,12,67,157,Unhealthy,68,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:13:00,2020,12,15,13,58,152,Unhealthy,50,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:14:00,2020,12,15,14,43,118,Unhealthy for Sensitive Groups,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:15:00,2020,12,15,15,33,96,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:16:00,2020,12,15,16,27,81,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:17:00,2020,12,15,17,24,77,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:18:00,2020,12,15,18,22,72,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:19:00,2020,12,15,19,24,76,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:20:00,2020,12,15,20,34,96,Moderate,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:21:00,2020,12,15,21,41,115,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:22:00,2020,12,15,22,42,116,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,15DEC20:23:00,2020,12,15,23,51,140,Unhealthy for Sensitive Groups,61,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:00:00,2020,12,16,0,57,152,Unhealthy,62,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:01:00,2020,12,16,1,54,146,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:02:00,2020,12,16,2,45,125,Unhealthy for Sensitive Groups,37,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:03:00,2020,12,16,3,35,100,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:04:00,2020,12,16,4,32,92,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:05:00,2020,12,16,5,33,96,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:06:00,2020,12,16,6,35,98,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:07:00,2020,12,16,7,34,98,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:08:00,2020,12,16,8,34,97,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:09:00,2020,12,16,9,33,95,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:10:00,2020,12,16,10,33,94,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:11:00,2020,12,16,11,34,96,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:12:00,2020,12,16,12,30,89,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:13:00,2020,12,16,13,24,76,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:14:00,2020,12,16,14,24,75,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:15:00,2020,12,16,15,23,73,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:16:00,2020,12,16,16,22,71,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:17:00,2020,12,16,17,24,76,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:18:00,2020,12,16,18,21,70,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:19:00,2020,12,16,19,23,74,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:20:00,2020,12,16,20,24,77,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:21:00,2020,12,16,21,25,78,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:22:00,2020,12,16,22,23,74,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,16DEC20:23:00,2020,12,16,23,34,96,Moderate,44,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:00:00,2020,12,17,0,39,110,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:01:00,2020,12,17,1,32,92,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:02:00,2020,12,17,2,23,74,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:03:00,2020,12,17,3,18,63,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:04:00,2020,12,17,4,19,66,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:05:00,2020,12,17,5,23,73,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:06:00,2020,12,17,6,31,90,Moderate,39,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:07:00,2020,12,17,7,33,95,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:08:00,2020,12,17,8,34,98,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:09:00,2020,12,17,9,34,98,Moderate,25,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:10:00,2020,12,17,10,26,79,N/A,25,UG/M3,1 Hr,Invalid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:11:00,2020,12,17,11,26,79,N/A,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:12:00,2020,12,17,12,29,87,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:13:00,2020,12,17,13,38,107,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:14:00,2020,12,17,14,30,89,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:15:00,2020,12,17,15,18,64,Moderate,7,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:16:00,2020,12,17,16,14,54,Moderate,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:17:00,2020,12,17,17,18,64,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:18:00,2020,12,17,18,23,74,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:19:00,2020,12,17,19,25,77,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:20:00,2020,12,17,20,20,68,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:21:00,2020,12,17,21,23,73,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:22:00,2020,12,17,22,20,67,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,17DEC20:23:00,2020,12,17,23,17,62,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:00:00,2020,12,18,0,18,64,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:01:00,2020,12,18,1,16,58,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:02:00,2020,12,18,2,13,53,Moderate,11,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:03:00,2020,12,18,3,12,48,Good,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:04:00,2020,12,18,4,10,43,Good,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:05:00,2020,12,18,5,13,52,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:06:00,2020,12,18,6,14,55,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:07:00,2020,12,18,7,16,60,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:08:00,2020,12,18,8,21,69,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:09:00,2020,12,18,9,23,74,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:10:00,2020,12,18,10,26,80,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:11:00,2020,12,18,11,30,88,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:12:00,2020,12,18,12,33,95,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:13:00,2020,12,18,13,26,81,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:14:00,2020,12,18,14,21,69,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:15:00,2020,12,18,15,16,59,Moderate,11,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:16:00,2020,12,18,16,17,61,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:17:00,2020,12,18,17,19,66,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:18:00,2020,12,18,18,23,74,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:19:00,2020,12,18,19,26,79,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:20:00,2020,12,18,20,22,72,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:21:00,2020,12,18,21,20,68,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:22:00,2020,12,18,22,16,59,Moderate,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,18DEC20:23:00,2020,12,18,23,15,56,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:00:00,2020,12,19,0,15,56,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:01:00,2020,12,19,1,10,43,Good,6,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:02:00,2020,12,19,2,13,53,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:03:00,2020,12,19,3,15,56,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:04:00,2020,12,19,4,17,61,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:05:00,2020,12,19,5,17,62,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:06:00,2020,12,19,6,21,69,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:07:00,2020,12,19,7,22,71,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:08:00,2020,12,19,8,24,76,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:09:00,2020,12,19,9,24,76,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:10:00,2020,12,19,10,24,76,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:11:00,2020,12,19,11,23,74,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:12:00,2020,12,19,12,20,68,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:13:00,2020,12,19,13,18,64,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:14:00,2020,12,19,14,12,49,Good,6,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:15:00,2020,12,19,15,13,53,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:16:00,2020,12,19,16,13,53,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:17:00,2020,12,19,17,15,58,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:18:00,2020,12,19,18,17,61,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:19:00,2020,12,19,19,20,67,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:20:00,2020,12,19,20,21,70,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:21:00,2020,12,19,21,16,60,Moderate,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:22:00,2020,12,19,22,15,56,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,19DEC20:23:00,2020,12,19,23,13,54,Moderate,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:00:00,2020,12,20,0,14,54,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:01:00,2020,12,20,1,15,58,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:02:00,2020,12,20,2,17,61,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:03:00,2020,12,20,3,18,62,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:04:00,2020,12,20,4,20,67,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:05:00,2020,12,20,5,23,74,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:06:00,2020,12,20,6,21,71,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:07:00,2020,12,20,7,20,68,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:08:00,2020,12,20,8,22,72,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:09:00,2020,12,20,9,26,80,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:10:00,2020,12,20,10,21,69,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:11:00,2020,12,20,11,17,61,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:12:00,2020,12,20,12,13,52,Moderate,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:13:00,2020,12,20,13,12,50,Good,11,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:14:00,2020,12,20,14,14,56,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:15:00,2020,12,20,15,12,49,Good,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:16:00,2020,12,20,16,14,55,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:17:00,2020,12,20,17,16,60,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:18:00,2020,12,20,18,13,53,Moderate,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:19:00,2020,12,20,19,12,48,Good,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:20:00,2020,12,20,20,13,52,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:21:00,2020,12,20,21,13,52,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:22:00,2020,12,20,22,11,48,Good,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,20DEC20:23:00,2020,12,20,23,12,49,Good,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:00:00,2020,12,21,0,8.8,37,Good,6,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:01:00,2020,12,21,1,13,54,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:02:00,2020,12,21,2,13,52,Moderate,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:03:00,2020,12,21,3,13,52,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:04:00,2020,12,21,4,14,55,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:05:00,2020,12,21,5,16,60,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:06:00,2020,12,21,6,18,64,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:07:00,2020,12,21,7,21,69,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:08:00,2020,12,21,8,21,70,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:09:00,2020,12,21,9,22,71,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:10:00,2020,12,21,10,19,65,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:11:00,2020,12,21,11,16,60,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:12:00,2020,12,21,12,17,61,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:13:00,2020,12,21,13,15,58,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:14:00,2020,12,21,14,12,51,Moderate,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:15:00,2020,12,21,15,13,53,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:16:00,2020,12,21,16,12,50,Good,11,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:17:00,2020,12,21,17,13,52,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:18:00,2020,12,21,18,13,53,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:19:00,2020,12,21,19,16,59,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:20:00,2020,12,21,20,16,58,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:21:00,2020,12,21,21,17,61,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:22:00,2020,12,21,22,11,47,Good,6,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,21DEC20:23:00,2020,12,21,23,9.1,38,Good,7,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:00:00,2020,12,22,0,8.0,33,Good,7,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:01:00,2020,12,22,1,11,44,Good,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:02:00,2020,12,22,2,8.7,36,Good,7,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:03:00,2020,12,22,3,6.8,28,Good,5,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:04:00,2020,12,22,4,6.4,27,Good,6,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:05:00,2020,12,22,5,7.2,30,Good,8,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:06:00,2020,12,22,6,12,51,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:07:00,2020,12,22,7,15,56,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:08:00,2020,12,22,8,17,61,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:09:00,2020,12,22,9,18,64,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:10:00,2020,12,22,10,18,63,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:11:00,2020,12,22,11,17,62,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:12:00,2020,12,22,12,17,62,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:13:00,2020,12,22,13,18,63,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:14:00,2020,12,22,14,16,59,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:15:00,2020,12,22,15,15,56,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:16:00,2020,12,22,16,17,62,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:17:00,2020,12,22,17,18,63,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:18:00,2020,12,22,18,26,81,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:19:00,2020,12,22,19,31,91,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:20:00,2020,12,22,20,26,79,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:21:00,2020,12,22,21,20,67,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:22:00,2020,12,22,22,19,65,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,22DEC20:23:00,2020,12,22,23,21,70,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:00:00,2020,12,23,0,21,70,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:01:00,2020,12,23,1,18,64,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:02:00,2020,12,23,2,22,71,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:03:00,2020,12,23,3,15,57,Moderate,8,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:04:00,2020,12,23,4,16,60,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:05:00,2020,12,23,5,15,58,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:06:00,2020,12,23,6,19,65,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:07:00,2020,12,23,7,22,72,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:08:00,2020,12,23,8,26,80,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:09:00,2020,12,23,9,25,77,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:10:00,2020,12,23,10,26,80,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:11:00,2020,12,23,11,30,88,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:12:00,2020,12,23,12,35,99,Moderate,40,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:13:00,2020,12,23,13,33,96,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:14:00,2020,12,23,14,29,86,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:15:00,2020,12,23,15,24,76,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:16:00,2020,12,23,16,30,88,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:17:00,2020,12,23,17,40,113,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:18:00,2020,12,23,18,45,125,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:19:00,2020,12,23,19,46,127,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:20:00,2020,12,23,20,45,123,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:21:00,2020,12,23,21,47,129,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:22:00,2020,12,23,22,46,128,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,23DEC20:23:00,2020,12,23,23,52,142,Unhealthy for Sensitive Groups,58,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:00:00,2020,12,24,0,63,155,Unhealthy,74,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:01:00,2020,12,24,1,76,161,Unhealthy,88,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:02:00,2020,12,24,2,79,163,Unhealthy,82,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:03:00,2020,12,24,3,81,164,Unhealthy,84,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:04:00,2020,12,24,4,85,166,Unhealthy,89,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:05:00,2020,12,24,5,90,169,Unhealthy,94,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:06:00,2020,12,24,6,91,169,Unhealthy,92,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:07:00,2020,12,24,7,90,169,Unhealthy,90,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:08:00,2020,12,24,8,91,169,Unhealthy,92,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:09:00,2020,12,24,9,71,159,Unhealthy,50,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:10:00,2020,12,24,10,51,140,Unhealthy for Sensitive Groups,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:11:00,2020,12,24,11,31,90,Moderate,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:12:00,2020,12,24,12,22,71,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:13:00,2020,12,24,13,16,59,Moderate,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:14:00,2020,12,24,14,13,53,Moderate,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:15:00,2020,12,24,15,12,52,Moderate,12,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:16:00,2020,12,24,16,13,52,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:17:00,2020,12,24,17,12,49,Good,11,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:18:00,2020,12,24,18,11,45,Good,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:19:00,2020,12,24,19,13,53,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:20:00,2020,12,24,20,14,56,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:21:00,2020,12,24,21,23,74,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:22:00,2020,12,24,22,26,79,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,24DEC20:23:00,2020,12,24,23,27,83,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:00:00,2020,12,25,0,37,104,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:01:00,2020,12,25,1,38,107,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:02:00,2020,12,25,2,37,104,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:03:00,2020,12,25,3,31,91,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:04:00,2020,12,25,4,27,82,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:05:00,2020,12,25,5,25,78,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:06:00,2020,12,25,6,29,87,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:07:00,2020,12,25,7,33,94,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:08:00,2020,12,25,8,25,79,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:09:00,2020,12,25,9,20,68,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:10:00,2020,12,25,10,18,62,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:11:00,2020,12,25,11,16,60,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:12:00,2020,12,25,12,20,68,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:13:00,2020,12,25,13,21,69,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:14:00,2020,12,25,14,19,65,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:15:00,2020,12,25,15,16,59,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:16:00,2020,12,25,16,17,62,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:17:00,2020,12,25,17,20,68,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:18:00,2020,12,25,18,22,72,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:19:00,2020,12,25,19,22,72,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:20:00,2020,12,25,20,25,77,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:21:00,2020,12,25,21,26,80,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:22:00,2020,12,25,22,29,86,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,25DEC20:23:00,2020,12,25,23,28,84,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:00:00,2020,12,26,0,27,82,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:01:00,2020,12,26,1,22,73,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:02:00,2020,12,26,2,25,77,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:03:00,2020,12,26,3,26,80,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:04:00,2020,12,26,4,23,74,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:05:00,2020,12,26,5,21,70,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:06:00,2020,12,26,6,22,71,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:07:00,2020,12,26,7,28,83,Moderate,34,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:08:00,2020,12,26,8,33,96,Moderate,39,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:09:00,2020,12,26,9,37,104,Unhealthy for Sensitive Groups,40,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:10:00,2020,12,26,10,29,86,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:11:00,2020,12,26,11,23,74,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:12:00,2020,12,26,12,20,67,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:13:00,2020,12,26,13,17,61,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:14:00,2020,12,26,14,13,54,Moderate,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:15:00,2020,12,26,15,11,47,Good,9,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:16:00,2020,12,26,16,12,51,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:17:00,2020,12,26,17,15,57,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:18:00,2020,12,26,18,19,66,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:19:00,2020,12,26,19,20,67,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:20:00,2020,12,26,20,22,72,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:21:00,2020,12,26,21,22,72,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:22:00,2020,12,26,22,25,78,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,26DEC20:23:00,2020,12,26,23,28,83,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:00:00,2020,12,27,0,30,88,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:01:00,2020,12,27,1,30,88,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:02:00,2020,12,27,2,27,82,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:03:00,2020,12,27,3,23,74,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:04:00,2020,12,27,4,26,81,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:05:00,2020,12,27,5,35,99,Moderate,43,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:06:00,2020,12,27,6,59,153,Unhealthy,84,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:07:00,2020,12,27,7,71,159,Unhealthy,82,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:08:00,2020,12,27,8,66,157,Unhealthy,62,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:09:00,2020,12,27,9,66,156,Unhealthy,65,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:10:00,2020,12,27,10,54,146,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:11:00,2020,12,27,11,46,128,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:12:00,2020,12,27,12,42,117,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:13:00,2020,12,27,13,36,102,Unhealthy for Sensitive Groups,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:14:00,2020,12,27,14,35,98,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:15:00,2020,12,27,15,35,99,Moderate,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:16:00,2020,12,27,16,35,100,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:17:00,2020,12,27,17,38,106,Unhealthy for Sensitive Groups,40,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:18:00,2020,12,27,18,46,126,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:19:00,2020,12,27,19,35,100,Moderate,25,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:20:00,2020,12,27,20,31,91,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:21:00,2020,12,27,21,27,81,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:22:00,2020,12,27,22,24,75,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,27DEC20:23:00,2020,12,27,23,18,64,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:00:00,2020,12,28,0,16,58,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:01:00,2020,12,28,1,20,67,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:02:00,2020,12,28,2,23,74,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:03:00,2020,12,28,3,20,68,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:04:00,2020,12,28,4,19,65,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:05:00,2020,12,28,5,27,83,Moderate,36,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:06:00,2020,12,28,6,34,97,Moderate,41,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:07:00,2020,12,28,7,39,110,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:08:00,2020,12,28,8,44,121,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:09:00,2020,12,28,9,56,151,Unhealthy,68,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:10:00,2020,12,28,10,51,140,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:11:00,2020,12,28,11,46,126,Unhealthy for Sensitive Groups,40,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:12:00,2020,12,28,12,40,113,Unhealthy for Sensitive Groups,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:13:00,2020,12,28,13,39,110,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:14:00,2020,12,28,14,36,101,Unhealthy for Sensitive Groups,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:15:00,2020,12,28,15,37,104,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:16:00,2020,12,28,16,35,99,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:17:00,2020,12,28,17,30,89,Moderate,26,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:18:00,2020,12,28,18,32,92,Moderate,33,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:19:00,2020,12,28,19,35,99,Moderate,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:20:00,2020,12,28,20,31,92,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:21:00,2020,12,28,21,24,76,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:22:00,2020,12,28,22,19,64,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,28DEC20:23:00,2020,12,28,23,17,62,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:00:00,2020,12,29,0,18,64,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:01:00,2020,12,29,1,18,62,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:02:00,2020,12,29,2,19,66,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:03:00,2020,12,29,3,18,63,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:04:00,2020,12,29,4,17,62,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:05:00,2020,12,29,5,18,64,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:06:00,2020,12,29,6,30,89,Moderate,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:07:00,2020,12,29,7,50,137,Unhealthy for Sensitive Groups,70,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:08:00,2020,12,29,8,71,159,Unhealthy,91,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:09:00,2020,12,29,9,73,160,Unhealthy,76,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:10:00,2020,12,29,10,64,155,Unhealthy,54,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:11:00,2020,12,29,11,57,152,Unhealthy,51,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:12:00,2020,12,29,12,53,144,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:13:00,2020,12,29,13,42,116,Unhealthy for Sensitive Groups,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:14:00,2020,12,29,14,30,89,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:15:00,2020,12,29,15,24,76,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:16:00,2020,12,29,16,21,70,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:17:00,2020,12,29,17,20,67,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:18:00,2020,12,29,18,28,85,Moderate,37,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:19:00,2020,12,29,19,33,95,Moderate,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:20:00,2020,12,29,20,36,101,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:21:00,2020,12,29,21,31,91,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:22:00,2020,12,29,22,27,83,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,29DEC20:23:00,2020,12,29,23,25,78,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:00:00,2020,12,30,0,24,75,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:01:00,2020,12,30,1,22,71,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:02:00,2020,12,30,2,20,67,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:03:00,2020,12,30,3,24,76,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:04:00,2020,12,30,4,21,71,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:05:00,2020,12,30,5,25,77,Moderate,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:06:00,2020,12,30,6,27,82,Moderate,29,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:07:00,2020,12,30,7,56,151,Unhealthy,85,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:08:00,2020,12,30,8,68,157,Unhealthy,80,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:09:00,2020,12,30,9,51,140,Unhealthy for Sensitive Groups,35,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:10:00,2020,12,30,10,51,140,Unhealthy for Sensitive Groups,25,UG/M3,1 Hr,Invalid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:11:00,2020,12,30,11,36,102,Unhealthy for Sensitive Groups,28,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:12:00,2020,12,30,12,31,90,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:13:00,2020,12,30,13,23,74,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:14:00,2020,12,30,14,16,60,Moderate,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:15:00,2020,12,30,15,16,58,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:16:00,2020,12,30,16,15,58,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:17:00,2020,12,30,17,14,55,Moderate,13,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:18:00,2020,12,30,18,16,58,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:19:00,2020,12,30,19,15,58,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:20:00,2020,12,30,20,18,64,Moderate,21,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:21:00,2020,12,30,21,14,55,Moderate,10,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:22:00,2020,12,30,22,16,59,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,30DEC20:23:00,2020,12,30,23,15,57,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:00:00,2020,12,31,0,17,60,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:01:00,2020,12,31,1,16,60,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:02:00,2020,12,31,2,15,57,Moderate,14,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:03:00,2020,12,31,3,23,73,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:04:00,2020,12,31,4,26,81,Moderate,30,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:05:00,2020,12,31,5,24,76,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:06:00,2020,12,31,6,24,76,Moderate,24,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:07:00,2020,12,31,7,33,95,Moderate,42,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:08:00,2020,12,31,8,33,94,Moderate,32,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:09:00,2020,12,31,9,30,88,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:10:00,2020,12,31,10,24,77,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:11:00,2020,12,31,11,20,68,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:12:00,2020,12,31,12,18,63,Moderate,16,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:13:00,2020,12,31,13,18,62,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:14:00,2020,12,31,14,16,60,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:15:00,2020,12,31,15,17,60,Moderate,17,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:16:00,2020,12,31,16,19,66,Moderate,22,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:17:00,2020,12,31,17,19,66,Moderate,19,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:18:00,2020,12,31,18,23,74,Moderate,27,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:19:00,2020,12,31,19,22,71,Moderate,20,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:20:00,2020,12,31,20,22,72,Moderate,23,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:21:00,2020,12,31,21,19,65,Moderate,15,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:22:00,2020,12,31,22,19,64,Moderate,18,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,31DEC20:23:00,2020,12,31,23,20,67,Moderate,21,UG/M3,1 Hr,Valid
